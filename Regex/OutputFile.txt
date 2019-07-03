@@ -1,0 +1,35 @@
+Matched interfaces are 3
+
+Interface #1:
+	Interface name: FastEthernet0/0
+	Ip address: 10.104.58.172
+	Interface description:  Deployed for EVC eplangki17IR
+	IfSpeed: , 100Mb/s
+	Duplex mode: Full-duplex
+	Admin status: up
+	Operation status: up 
+	Mac address: 0007.0e54.a458
+	MTU: 1500
+
+Interface #2:
+	Interface name: FastEthernet0/1
+	Ip address: 192.168.1.1
+	Interface description:  
+	IfSpeed: , Auto Speed
+	Duplex mode: Auto-duplex
+	Admin status: up
+	Operation status: down 
+	Mac address: 0007.0e54.a459
+	MTU: 1500
+
+Interface #3:
+	Interface name: Serial0/0/0
+	Ip address:  
+	Interface description:  testHWICDSU
+	IfSpeed:  
+	Duplex mode:  
+	Admin status: administratively
+	Operation status: administratively 
+	Mac address:  
+	MTU: 65
+

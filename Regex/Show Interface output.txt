@@ -1,0 +1,90 @@
+FastEthernet0/0 is up, line protocol is up 
+  Hardware is MV96340 Ethernet, address is 0007.0e54.a458 (bia 0007.0e54.a458)
+  Description: Deployed for EVC eplangki17IR
+  Internet address is 10.104.58.172/24
+  MTU 1500 bytes, BW 100000 Kbit/sec, DLY 100 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation ARPA, loopback not set
+  Keepalive set (10 sec)
+  Full-duplex, 100Mb/s, 100BaseTX/FX
+  ARP type: ARPA, ARP Timeout 04:00:00
+  Last input 00:00:00, output 00:00:00, output hang never
+  Last clearing of "show interface" counters never
+  Input queue: 0/75/284/0 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: fifo
+  Output queue: 0/40 (size/max)
+  5 minute input rate 1000 bits/sec, 1 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     6608343 packets input, 794532984 bytes
+     Received 5680217 broadcasts (0 IP multicasts)
+     0 runts, 0 giants, 46 throttles
+     3193 input errors, 0 CRC, 0 frame, 0 overrun, 3193 ignored
+     0 watchdog
+     0 input packets with dribble condition detected
+     1551339 packets output, 432605215 bytes, 0 underruns
+     0 output errors, 0 collisions, 0 interface resets
+     432372 unknown protocol drops
+     0 babbles, 0 late collision, 0 deferred
+     0 lost carrier, 0 no carrier
+     0 output buffer failures, 0 output buffers swapped out
+
+FastEthernet0/1 is up, line protocol is down 
+  Hardware is MV96340 Ethernet, address is 0007.0e54.a459 (bia 0007.0e54.a459)
+  Internet address is 192.168.1.1/24
+  MTU 1500 bytes, BW 100000 Kbit/sec, DLY 100 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation ARPA, loopback not set
+  Keepalive set (10 sec)
+  Auto-duplex, Auto Speed, 100BaseTX/FX
+  ARP type: ARPA, ARP Timeout 04:00:00
+  Last input never, output 00:00:01, output hang never
+  Last clearing of "show interface" counters never
+  Input queue: 0/75/0/0 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: fifo
+  Output queue: 0/40 (size/max)
+  5 minute input rate 0 bits/sec, 0 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts (0 IP multicasts)
+     0 runts, 0 giants, 0 throttles
+     0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored
+     0 watchdog
+     0 input packets with dribble condition detected
+     189961 packets output, 11474445 bytes, 0 underruns
+     0 output errors, 0 collisions, 0 interface resets
+     0 unknown protocol drops
+     0 babbles, 0 late collision, 0 deferred
+     185661 lost carrier, 0 no carrier
+     0 output buffer failures, 0 output buffers swapped out
+Serial0/0/0 is administratively down, line protocol is down 
+  Hardware is GT96K with integrated T1 CSU/DSU
+  Description: testHWICDSU
+  MTU 65 bytes, BW 5000 Kbit/sec, DLY 20000 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation HDLC, loopback not set
+  Keepalive set (10 sec)
+  Keepalive not set
+  Keepalive set (100 sec)
+    Half-duplex enabled.
+      rts-timeout 3 milliseconds
+      Errors - 0 rts timeout, 0 half duplex violation
+  Last input never, output never, output hang never
+  Last clearing of "show interface" counters never
+  Input queue: 0/75/0/0 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: weighted fair
+  Output queue: 0/1000/64/0 (size/max total/threshold/drops) 
+     Conversations  0/0/256 (active/max active/max total)
+     Reserved Conversations 0/0 (allocated/max allocated)
+     Available Bandwidth 3750 kilobits/sec
+  5 minute input rate 0 bits/sec, 0 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     0 packets input, 0 bytes, 0 no buffer
+     Received 0 broadcasts (0 IP multicasts)
+     0 runts, 0 giants, 0 throttles
+     0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored, 0 abort
+     0 packets output, 0 bytes, 0 underruns
+     0 output errors, 0 collisions, 8 interface resets
+     0 unknown protocol drops
+     0 output buffer failures, 0 output buffers swapped out
+     0 carrier transitions
+     DCD=down  DSR=up  DTR=up  RTS=down  CTS=down
